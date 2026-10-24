@@ -1,0 +1,14 @@
+{
+  "name": "understandable",
+  "displayName": "Understandable",
+  "version": "1.0.0",
+  "description": "Makes Claude's writing easier to read, using findings from the 2026 study \"Why is AI-generated language so hard to understand?\"",
+  "author": {
+    "name": "Heinrich Heimbuch",
+    "url": "https://github.com/hsheimbuch"
+  },
+  "homepage": "https://github.com/hsheimbuch/understandable",
+  "repository": "https://github.com/hsheimbuch/understandable",
+  "license": "MIT",
+  "keywords": ["writing", "readability", "plain-language", "psycholinguistics", "skill"]
+}

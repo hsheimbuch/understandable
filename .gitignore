@@ -1,0 +1,5 @@
+# Local Claude Code settings
+.claude/settings.local.json
+
+# PDFs, such as a local copy of the paper. The README links to arXiv instead.
+*.pdf

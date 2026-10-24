@@ -1,0 +1,17 @@
+{
+  "name": "understandable",
+  "description": "The understandable skill for Claude Code: clearer prose, based on research into why AI-generated text is hard to read.",
+  "owner": {
+    "name": "Heinrich Heimbuch",
+    "url": "https://github.com/hsheimbuch"
+  },
+  "plugins": [
+    {
+      "name": "understandable",
+      "source": "./",
+      "description": "Makes Claude's writing easier to read, using findings from the 2026 study \"Why is AI-generated language so hard to understand?\"",
+      "category": "writing",
+      "tags": ["writing", "readability"]
+    }
+  ]
+}
